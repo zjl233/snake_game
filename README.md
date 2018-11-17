@@ -8,7 +8,7 @@
 
 prerequest
 
-1. python 3.7
+1. python 3.6
 2. pip3
 3. pipenv
 
