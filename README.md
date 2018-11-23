@@ -14,21 +14,22 @@ prerequest
 
 ```bash
 git clone https://github.com/zjl233/snake_game.git
+cd snake_game
 pipenv install
 pipenv shell
-pyinstaller src/main.py -n snake_game -F
-cp dist/snake_game /usr/bin/
+pyinstaller src/main.py -n snake -F
+cp dist/snake /usr/bin/
 ```
 
 # run
 
 ```bash
-snake_game
+snake
 ```
 
 # uninstall
 
 ```bash
-rm /usr/bin/snake_game
+rm /usr/bin/snake
 ```
 
