@@ -1,4 +1,4 @@
-# snake_game
+# Snake Game
 
 ## screenshot
 
@@ -8,9 +8,10 @@
 
 prerequest
 
-1. python 3.6
-2. pip3
-3. pipenv
+1. ubuntu 18.04
+2. python 3.6
+3. pip3
+4. pipenv
 
 ```bash
 git clone https://github.com/zjl233/snake_game.git
