@@ -16,7 +16,6 @@ prerequest
 ```bash
 git clone https://github.com/zjl233/snake_game.git
 cd snake_game
-pipenv install
 pipenv shell
 pyinstaller src/main.py -n snake -F
 cp dist/snake /usr/bin/
